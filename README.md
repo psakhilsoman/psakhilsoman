@@ -6,7 +6,7 @@ I'm a passionate software engineer from India, with a love for building web appl
 
 - 🌍 From: India
 - 🖥️ Full Time Full Stack Developer and Part Time Freelancer
-- 🌐 Currently working on a WordPress project
+- 🌐 Currently working on: It's a secret 🤫😂😂
 
 ## 🚀 Skills
 
@@ -23,7 +23,10 @@ I'm a passionate software engineer from India, with a love for building web appl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🌱 Currently Learning
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) Diving into the .NET ecosystem to enhance my backend development skills
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+Diving into the .NET ecosystem to enhance my backend development skills, and exploring AWS to strengthen my cloud computing knowledge.
 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psakhilsoman@gmail.com)
