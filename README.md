@@ -6,7 +6,6 @@ I'm a passionate software engineer from India, with a love for building web appl
 
 - 🌍 From: India
 - 🖥️ Full Time Full Stack Developer
-- 🌐 Currently working on: It's a secret 🤫😊
 
 ## 🚀 Skills
 
