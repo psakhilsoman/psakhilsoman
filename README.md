@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software engineer from India, with a love for building web applications. My expertise lies in PHP, React, and Node.js, and I'm currently expanding my skills in .NET.
+I'm a passionate software engineer from India, with a love for building web applications. My expertise lies in PHP, React, and Node.js.
 
 - 🌍 From: India
 - 🖥️ Full Time Full Stack Developer
